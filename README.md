@@ -3,10 +3,10 @@ Forecasting Future Values Of Different Investment Options
 
 " The All Weather Investment Strategy project aims to optimize investment portfolio performance across diverse market conditions. This repository contains the code and resources used to develop and implement the strategy. "
 
-🟣 Overview
+🟣 Overview : 
 The "All Weather Investment Strategy" is a comprehensive approach to investment portfolio management designed to achieve consistent returns regardless of market fluctuations. By leveraging data analysis, machine learning techniques, and risk management strategies, the project seeks to construct resilient portfolios capable of delivering stable returns over time.
 
-🟣 Purpose
+🟣 Purpose : 
 The primary objective of the All Weather Investment Strategy project is to forecast future values of various investment options, including gold, bitcoin, stocks, mutual funds, PPF, EPF, and FDs. By accurately predicting future asset prices, investors can make informed decisions regarding asset allocation and portfolio management, ultimately maximizing returns while minimizing risk.
 
 🟣 Features
