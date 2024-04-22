@@ -24,5 +24,4 @@ To utilize the Project :
 2) Install the required dependencies especially Modules as required.
 3) Run the provided scripts to analyze data, build models, and optimize portfolio allocations.
 
-🟣 Contributions
-Contributions to the All Weather Investment Strategy project are welcome! Please feel free to submit bug reports, feature requests, or pull requests to help improve the project.If you face any problem or you want to ask questions , feel free to contact at kaiyur65@gmail.com .
+🟣 Contributions to the All Weather Investment Strategy project are welcome! Please feel free to submit bug reports, feature requests, or pull requests to help improve the project. If you face any problem or want to ask questions, feel free to contact at kaiyur65@gmail.com .
